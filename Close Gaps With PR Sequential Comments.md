@@ -42,7 +42,8 @@ Follow this structured execution loop:
 * That PR comment must explicitly include instructions such as:
 
   * *“After implementing Task 1, verify the work is functional and valuable, ensuring that all tests, linting, and quality checks pass before continuing.”*
-* After Task 1 is validated, move to Task 2. For **each subsequent task**, add a **new PR comment** with detailed instructions for Copilot.
+  *  *"After Task 1 is validated, move to Task 2."*
+* For **each subsequent task**, add a **new PR comment** with detailed instructions for Copilot.
 * Each PR comment must:
 
   * Be concise yet detailed.
