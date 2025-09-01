@@ -1,0 +1,1 @@
+@copilot Audit the files in THIS PR only. Identify risks across compatibility, performance, and security. Draft a 3‑step commit plan: (1) add failing tests that capture the acceptance criteria; (2) implement the code changes to satisfy those tests; (3) refactor/polish the implementation for readability and maintainability. Stay within this PR’s objective and acceptance criteria.

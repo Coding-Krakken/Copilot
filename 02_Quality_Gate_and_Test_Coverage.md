@@ -1,0 +1,1 @@
+@copilot Fix any build, lint, or type errors in this PR. Add or adjust tests so that all builds, linters, type checks, unit tests, integration tests, and E2E tests pass. Confirm that test coverage on all touched files is ≥ 90% for lines and branches. No skipped or trivial tests.

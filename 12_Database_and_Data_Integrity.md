@@ -1,0 +1,1 @@
+@copilot Optimize database queries or ORM operations affected by this PR. Use parameterized queries or ORM safety features to prevent SQL injection. Implement transactions to maintain atomicity and consistency. Add tests for concurrent scenarios to detect race conditions and deadlocks. Update schema migrations if needed and document any database changes in the migration notes.

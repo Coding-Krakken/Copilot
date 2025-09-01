@@ -1,0 +1,1 @@
+@copilot Refactor the code in this PR to remove duplication, reduce complexity, and apply appropriate design patterns. Decouple business logic from external dependencies, simplify inheritance hierarchies (prefer composition), and remove unused code and imports. Ensure naming is descriptive, add clarifying comments, and make functions small and focused.

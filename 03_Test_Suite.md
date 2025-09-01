@@ -1,0 +1,1 @@
+@copilot Create comprehensive tests for new or modified code in this PR: fast unit tests, targeted integration tests for components that interact, and end‑to‑end tests for user flows. Use mocks or stubs as appropriate. Include negative and edge cases. Provision and tear down test data to keep tests independent and repeatable.

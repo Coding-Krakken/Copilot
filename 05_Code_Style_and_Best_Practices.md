@@ -1,0 +1,1 @@
+@copilot Apply the project’s coding style: consistent indentation, import ordering, variable and function naming, and file structure. Add explanatory comments where intent isn’t obvious. Ensure the code is modular, follows the single‑responsibility principle, and uses descriptive names throughout. Remove any code that doesn’t follow these standards.

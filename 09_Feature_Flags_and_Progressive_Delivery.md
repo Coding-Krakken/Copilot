@@ -1,0 +1,1 @@
+@copilot Wrap any new feature introduced by this PR behind a feature flag. Default the flag to off. Add configuration options to enable/disable the feature. Write tests for both enabled and disabled states. Document how to toggle the feature in README or docs. Prepare for progressive rollout (e.g., canary or A/B testing) by ensuring the flag can target subsets of users.

@@ -1,0 +1,1 @@
+@copilot Add observability instrumentation to the code in this PR: log structured events, emit metrics with consistent naming and units, and propagate traces across service boundaries. Integrate with the project’s monitoring platform. Document how to interpret these metrics and traces. Add automated checks to ensure these metrics are being recorded during tests.
